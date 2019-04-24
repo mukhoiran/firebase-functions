@@ -3,7 +3,7 @@
     "public": "public",
     "rewrites": [
       {
-        "source": "/mukhoiran",
+        "source": "**",
         "function": "app"
       }
     ],
@@ -11,6 +11,6 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
+    ]
   }
 }
