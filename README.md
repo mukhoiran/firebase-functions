@@ -1,2 +1,2 @@
 # firebase-functions
-Documentation functions (nodejs) on firebase
+Functions (nodejs) on firebase
